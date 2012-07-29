@@ -1,0 +1,52 @@
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Debug\MouseTest.exe.config
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Debug\MouseTest.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Debug\MouseTest.pdb
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Debug\PSMoveSharp.dll
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Debug\PSMoveSharp.pdb
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Form1.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Properties.Resources.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\MouseTest.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Debug\MouseTest.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\MouseTest.exe.config
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\MouseTest.exe
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\MouseTest.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\MouseTest.exe
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\MouseTest.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\PSMoveSharp.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Form1.resources
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Properties.Resources.resources
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\InputSimulator.dll
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\InputSimulator.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Debug\InputSimulator.xml
+C:\MouseTest\MouseTest\bin\Debug\MouseTest.exe.config
+C:\MouseTest\MouseTest\obj\x86\Debug\MouseTest.exe
+C:\MouseTest\MouseTest\obj\x86\Debug\MouseTest.pdb
+C:\MouseTest\MouseTest\bin\Debug\MouseTest.exe
+C:\MouseTest\MouseTest\bin\Debug\MouseTest.pdb
+C:\MouseTest\MouseTest\bin\Debug\InputSimulator.pdb
+C:\MouseTest\MouseTest\bin\Debug\InputSimulator.xml
+C:\MouseTest\MouseTest\bin\Debug\PSMoveSharp.pdb
+C:\MouseTest\MouseTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Form1.resources
+C:\MouseTest\MouseTest\obj\x86\Debug\MouseTest.Properties.Resources.resources
+C:\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MouseTest\MouseTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MouseTest2\MouseTest\bin\Debug\MouseTest.exe.config
+C:\MouseTest2\MouseTest\obj\x86\Debug\MouseTest.exe
+C:\MouseTest2\MouseTest\obj\x86\Debug\MouseTest.pdb
+C:\MouseTest2\MouseTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MouseTest2\MouseTest\obj\x86\Debug\MouseTest.Form1.resources
+C:\MouseTest2\MouseTest\obj\x86\Debug\MouseTest.Properties.Resources.resources
+C:\MouseTest2\MouseTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MouseTest2\MouseTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MouseTest2\MouseTest\bin\Debug\MouseTest.exe
+C:\MouseTest2\MouseTest\bin\Debug\MouseTest.pdb
+C:\MouseTest2\MouseTest\bin\Debug\InputSimulator.pdb
+C:\MouseTest2\MouseTest\bin\Debug\InputSimulator.xml
+C:\MouseTest2\MouseTest\bin\Debug\PSMoveSharp.pdb

@@ -1,0 +1,52 @@
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Release\MouseTest.exe.config
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Release\MouseTest.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Release\MouseTest.pdb
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Release\PSMoveSharp.dll
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\bin\Release\PSMoveSharp.pdb
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\MouseTest.Form1.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\MouseTest.Properties.Resources.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\MouseTest.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\MouseTest\MouseTest\obj\x86\Release\MouseTest.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\MouseTest.exe.config
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\MouseTest.exe
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\MouseTest.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\InputSimulator.dll
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\InputSimulator.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\InputSimulator.xml
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\bin\Release\PSMoveSharp.pdb
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\MouseTest.Form1.resources
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\MouseTest.Properties.Resources.resources
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\MouseTest.exe
+C:\Users\Ryan\Desktop\Move.Me\MouseTest\MouseTest\obj\x86\Release\MouseTest.pdb
+C:\MouseTest\MouseTest\bin\Release\MouseTest.exe.config
+C:\MouseTest\MouseTest\bin\Release\MouseTest.exe
+C:\MouseTest\MouseTest\bin\Release\MouseTest.pdb
+C:\MouseTest\MouseTest\bin\Release\InputSimulator.pdb
+C:\MouseTest\MouseTest\bin\Release\InputSimulator.xml
+C:\MouseTest\MouseTest\bin\Release\PSMoveSharp.pdb
+C:\MouseTest\MouseTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\MouseTest\MouseTest\obj\x86\Release\MouseTest.Form1.resources
+C:\MouseTest\MouseTest\obj\x86\Release\MouseTest.Properties.Resources.resources
+C:\MouseTest\MouseTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\MouseTest\MouseTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\MouseTest\MouseTest\obj\x86\Release\MouseTest.exe
+C:\MouseTest\MouseTest\obj\x86\Release\MouseTest.pdb
+C:\MouseTest2\MouseTest\bin\Release\MouseTest.exe.config
+C:\MouseTest2\MouseTest\bin\Release\MouseTest.exe
+C:\MouseTest2\MouseTest\bin\Release\MouseTest.pdb
+C:\MouseTest2\MouseTest\bin\Release\InputSimulator.pdb
+C:\MouseTest2\MouseTest\bin\Release\InputSimulator.xml
+C:\MouseTest2\MouseTest\bin\Release\PSMoveSharp.pdb
+C:\MouseTest2\MouseTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\MouseTest2\MouseTest\obj\x86\Release\MouseTest.Form1.resources
+C:\MouseTest2\MouseTest\obj\x86\Release\MouseTest.Properties.Resources.resources
+C:\MouseTest2\MouseTest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\MouseTest2\MouseTest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\MouseTest2\MouseTest\obj\x86\Release\MouseTest.exe
+C:\MouseTest2\MouseTest\obj\x86\Release\MouseTest.pdb
